@@ -1,0 +1,1 @@
+# Wazuh-SIEM-and-Alert-Setup
